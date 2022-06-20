@@ -3,3 +3,4 @@
 2) location
 3) elastic-search
 4) maps-event-api
+5) geofence
