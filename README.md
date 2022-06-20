@@ -5,3 +5,5 @@
 5) geofence
 6) upload-framework
 7) api-leadtime-ocean
+8) elastic-search
+9) elastic-sync
